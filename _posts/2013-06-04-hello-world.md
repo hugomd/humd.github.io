@@ -6,3 +6,4 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+Hi there! This is a test post!
