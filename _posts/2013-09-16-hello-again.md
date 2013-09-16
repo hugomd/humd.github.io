@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Hello Again"
-description: "Back to Github"
-category:
-tags: [hello, again]
+title: "Hello, again"
+description: ""
+category: 
+tags: []
 ---
 {% include JB/setup %}
-So, considering Github Pages is a thing now, I might start posting on here...
+So, seeing as Github Pages seems to be a thing now, I might actually start using it again..
+
